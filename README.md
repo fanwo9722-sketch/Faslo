@@ -3,7 +3,6 @@
 
 > **AI-powered coding agent for Flutter/Dart & Python/FastAPI projects — packaged as a desktop app.**
 
-Named after the people who matter most — **F**rancisca, **A**jibola, **S**halom, **L**oveth, **O**luwadamilare.
 
 ---
 
