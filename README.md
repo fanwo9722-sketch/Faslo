@@ -1,4 +1,5 @@
-# FASLO 🔥
+
+# FASLO 🔥 
 
 > **AI-powered coding agent for Flutter/Dart & Python/FastAPI projects — packaged as a desktop app.**
 
@@ -74,7 +75,13 @@ Any errors are fed back to the agent and fixed (up to 3 rounds)
 
 ## Demo
 
-![FASLO Demo](https://i.imgur.com/RfafchZ.gif)
+
+<img width="937" height="511" alt="image" src="https://github.com/user-attachments/assets/1c8f2aec-b429-4a85-93b2-1ad3768340a0" />
+
+
+
+
+
 
 ---
 
