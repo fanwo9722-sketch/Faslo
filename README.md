@@ -38,22 +38,7 @@ No terminal. No config. No setup headaches. Just download, install, and start bu
 
 ---
 
-## How It Works
 
-```
-You type a task (e.g. "Add a like button to PostCard")
-        ↓
-FASLO scans and indexes your entire project
-        ↓
-The AI agent searches your code, finds the right files,
-and applies the fix surgically
-        ↓
-Dart analyzer + Python checker run automatically
-        ↓
-Any errors are fed back to the agent and fixed (up to 3 rounds)
-        ↓
-✓ Done — clean, working code
-```
 
 ---
 
@@ -79,22 +64,6 @@ Any errors are fed back to the agent and fixed (up to 3 rounds)
 
 
 
-
-
-
----
-
-## Built With
-
-| Layer | Technology |
-|---|---|
-| Desktop App | Electron (Windows & macOS) |
-| Frontend Projects | Flutter / Dart |
-| Backend Projects | Python / FastAPI |
-| AI Agent | OpenRouter LLM (tool-calling) |
-| Code Indexing | Custom AST-based indexer |
-
----
 
 ## Requirements
 
