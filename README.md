@@ -106,14 +106,7 @@ That's it. FASLO handles everything else.
 
 ---
 
-## License
-
-MIT License — free to use, modify, and build on.
-
----
 
 ## Acknowledgements
 
-Built with love and named after family. 🙏
-
-*Francisca · Ajibola · Shalom · Loveth · Oluwadamilare*
+Built with love :)
