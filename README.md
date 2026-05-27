@@ -1,81 +1,70 @@
+<p align="center">
+  <h1 align="center">FASLO</h1>
+  <p align="center">AI coding agent for Flutter & FastAPI — runs on your desktop.</p>
+</p>
 
-# FASLO 🔥 
-
-> **AI-powered coding agent for Flutter/Dart & Python/FastAPI projects — packaged as a desktop app.**
-
+<p align="center">
+  <a href="https://github.com/fanwo9722-sketch/Faslo/releases/download/v1.0.0/FASLO.Setup.1.0.0.exe">
+    <img src="https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/fanwo9722-sketch/Faslo/releases/download/v1.0.0/FASLO-1.0.0-arm64.dmg">
+    <img src="https://img.shields.io/badge/Download-macOS-black?style=for-the-badge&logo=apple" />
+  </a>
+</p>
 
 ---
 
-## What is FASLO?
-
-FASLO is a desktop application that acts as your AI coding agent. Open it, type a task in plain English, and watch it read your codebase, apply the fix, detect errors, and heal itself — all without you touching a single file.
-
-No terminal. No config. No setup headaches. Just download, install, and start building.
+FASLO is a desktop AI coding agent. Type a task in plain English — FASLO finds the right files, applies the fix, checks for errors, and cleans up. No terminal. No setup. Just results.
 
 ---
 
 ## Download
 
-| Platform | Download |
-|---|---|
-| 🪟 Windows | [Download for Windows (.exe)](https://github.com/fanwo9722-sketch/FasloEngine/actions/runs/26492638970/artifacts/7232596064) |
-| 🍎 macOS | [Download for macOS (.dmg)](https://github.com/fanwo9722-sketch/FasloEngine/actions/runs/26492638970/artifacts/7232604458) |
+| Platform | File | Size |
+|---|---|---|
+| 🪟 Windows | [FASLO Setup 1.0.0.exe](https://github.com/fanwo9722-sketch/Faslo/releases/download/v1.0.0/FASLO.Setup.1.0.0.exe) | 84.5 MB |
+| 🍎 macOS | [FASLO-1.0.0-arm64.dmg](https://github.com/fanwo9722-sketch/Faslo/releases/download/v1.0.0/FASLO-1.0.0-arm64.dmg) | 112 MB |
 
 ---
 
-## Features
+## What it does
 
-- 🧠 **AI Agent** — powered by an LLM that thinks, searches, and patches your code iteratively
-- 🔍 **Smart Code Search** — searches across your entire Flutter and FastAPI project instantly
-- 🔧 **Surgical Patching** — replaces a single method, a full class, or creates new files without touching anything else
-- 🩹 **Smart Find-Replace** — handles indentation, whitespace, and encoding mismatches automatically
-- 🔄 **Self-Healing** — runs Dart analyzer and Python syntax checks after every patch and fixes errors automatically
-- 📡 **Live API Probing** — calls your backend endpoints directly to verify responses before writing fixes
-- 🌐 **Browser Verification** — opens a real browser to confirm your UI works after a fix
-- 💬 **Live Streaming UI** — watch the agent think, search, and write code in real time
-- 🗂️ **Full Project Awareness** — indexes every `.dart` and `.py` file in your project automatically
-- ✅ **Works on Windows & macOS**
+- Reads and understands your entire Flutter/FastAPI codebase
+- Applies fixes surgically — one method, one class, or a whole file
+- Detects and resolves errors automatically after every change
+- Probes your backend endpoints to verify fixes before applying them
+- Streams everything live — watch it think and work in real time
 
 ---
 
-
-
----
-
-## Example Tasks You Can Give FASLO
+## Example tasks
 
 ```
-"Add a reply button to CommentCard"
+"Add a like button to PostCard"
 "Fix the login screen not redirecting after success"
 "Add pagination to the feed endpoint"
-"Change the primary color to blue across all screens"
-"Add error handling to the signup flow"
 "Create a new ProfileScreen with avatar and bio"
-"Add a loading spinner to the checkout button"
+"Add error handling to the signup flow"
 "Fix the 422 error on the register endpoint"
 ```
 
 ---
 
-## Demo
-
-
-<img width="937" height="511" alt="image" src="https://github.com/user-attachments/assets/1c8f2aec-b429-4a85-93b2-1ad3768340a0" />
-
-
-
-
 ## Requirements
 
-- Your Flutter project (with a `lib/` folder)
-- Your FastAPI backend (`main.py`)
-- An OpenRouter API key (entered once inside the app)
-
-That's it. FASLO handles everything else.
+- Flutter project with a `lib/` folder
+- Python/FastAPI backend
+- OpenRouter API key (entered once inside the app)
 
 ---
 
+## Built for
 
-## Acknowledgements
+Flutter & Dart · Python & FastAPI · Windows & macOS
 
-Built with love :)
+---
+
+## License
+
+MIT
