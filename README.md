@@ -1,6 +1,9 @@
 # FASLO 🔥
 
-> **AI-powered coding agent for Mobile Development and other agentic tasks — packaged as a desktop app.**
+> **AI-powered coding agent for Flutter/Dart & Python/FastAPI projects — packaged as a desktop app.**
+
+Named after the people who matter most — **F**rancisca, **A**jibola, **S**halom, **L**oveth, **O**luwadamilare.
+
 ---
 
 ## What is FASLO?
@@ -69,11 +72,9 @@ Any errors are fed back to the agent and fixed (up to 3 rounds)
 
 ---
 
-## Screenshots
+## Demo
 
-![Uploading gif.gif…]()
-
-
+![FASLO Demo](https://i.imgur.com/RfafchZ.gif)
 
 ---
 
